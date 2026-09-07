@@ -28,15 +28,6 @@
 
 ---
 
-## 🎮 Demo
-
-> **Play instantly:** Download `fruit-slice.html` and open it in any browser — no server required!
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x500/1a1a2e/ffffff?text=Blade+%26+Blossom+Gameplay+Preview" alt="Blade & Blossom Gameplay Preview" width="100%" />
-  <br />
-  <em>Slice fruit, build combos, and climb the leaderboard!</em>
-</p>
 
 ---
 
